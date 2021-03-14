@@ -1,0 +1,21 @@
+﻿User_ID (PK);Email ;Reg_date;First_name;Last_name;Phone_number;Password
+1;Jannethomsen@hotmail.com;12/01/2019;Janne;Thomsen;+45 32 33 88 78;Hmp22yts
+2;Kimhansen@gmail.com;12/04/2019;Kim;Hansen;+45 33 99 22 54;hdl151m
+3;UllaBritta@live.dk;09/08/2019;Ulla;Britta;+45 18 73 05 16;Læ241m
+4;Valentin@me.com;02/10/2019;Valentin;Larsen;+45 61 34 93 10;Han2141m234
+5;Cosmo@hotmail.com;11/11/2019;Cosmo;Petersen;+45 19 34 82 01;CosemoErSej123
+6;William@live.dk;12/11/2019;William;Sørensen;+45 19 83 74 23;9191Mkodm
+7;Hektor123@me.com;09/01/2019;Hektor;Vladimir;+45 22 82 73 10;810KOKOa1
+8;ArchibaldBIF@gmail.com;10/10/2019;Archibald;Iversen;+45 98 29 10 45;BIF2311
+9;KennthHoej@gmail.com;11/02/2019;Kenneth;Høj;+45 44 55 20 19;Tyranu891
+10;Sebastian@gmail.com;27/11/2019;Sebastian;Larsen;+45 22 92 31 23;JakobErSej123
+11;Hans@gmail.com;12/12/2019;Hans;Grevsen;+45 93 81 05 82;adfo14
+12;Birgitte14@hotmail.com;02/10/2019;Birgitte;Hansen;+45 19 39 20 19;sadfon15123
+13;jt@gmail.com;11/11/2019;Jens;Tobiasen;+45 91 93 85 20;2512fd
+14;yow13@live.dk;01/05/2020;Yver;Olesen;+45 91 83 97 86;21451234sdf
+15;Kennth9813@live.dk;11/02/2019;Kenneth;Madsen;+45 92 81 06 85;dsgo14
+16;Mads13@gmail.com;12/04/2019;Mads;Frederiksen;+45 82 73 85 19;fgsao141
+17;tyrone11@live.dk;11/02/2019;Tyrone;Wind;+45 49 28 47 65;sdogfaosdm4
+18;Mustafa-t@gmail.com;02/10/2019;Mustafa;Tobiesen;+45 10 92 82 42;osdgkob15
+19;Au@gmail.com;12/12/2019;Augusta;Ulga;+45 30 87 69 42;osadkfom11432
+20;FlemmingJ@hotmail.com;10/10/2019;Flemming;Jensen;+45 19 83 20 18;sdogml42
